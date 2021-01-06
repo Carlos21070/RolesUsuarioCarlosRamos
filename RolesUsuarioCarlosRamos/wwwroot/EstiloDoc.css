@@ -1,0 +1,115 @@
+html {
+    background-color: bisque;
+    font-family: 'Aharoni';
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+body {
+    width: 1300px;
+    border-radius: 10px;
+}
+
+header {
+    background-color: white;
+    border-radius: 15px;
+   
+}
+input[type=text], input[type=email], input[type=password], input[type=number] {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-family: 'Aharoni';
+    padding: 3px;
+    margin: 5px;
+    width: 300px;
+    border-radius: 15px;
+}
+#activo {
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Aharoni';
+    text-align: center;
+}
+main table tbody {
+    background-color: bisque;
+    border-color: black;
+    border-radius: 15px;
+}
+main table {
+    background-color: bisque;
+    font-size: 15px;
+    font-family: 'Aharoni';
+    margin: 10px;
+    border: 1px;
+    border-color: black;
+}
+    main table thead {
+        background-color: bisque;
+        text-align: center;
+        color: black;
+        font-family: 'Aharoni';
+        border-color: black;
+        border-radius: 15px;
+    }
+    header img {
+        height: 150px;
+        margin:auto;
+        
+    }
+body {
+    background-color: white;
+    width: 1000px;
+}
+main {
+    text-align: center;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+    main h1 {
+        position: center;
+        font-family: 'Aharoni';
+        font-size: 30px;
+        color: black;
+    }
+    main h3 {
+        position: center;
+        font-family: 'Aharoni';
+        font-size: 30px;
+        color: black;
+        font-weight: bolder;
+        border-radius: 15px;
+    }
+    main input[type=submit] {
+        background-color: bisque;
+        color: black;
+        font-weight: bold;
+        
+    }
+    main a {
+        color: black;
+        font-size: 20px;
+        margin: 5px;
+        border-radius: 15px;
+    }
+    main label {
+        font-size: 20px;
+        margin: 20px;
+        color: black;
+    }
+footer {
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Aharoni';
+    font-weight: bold;
+    color: black;
+    border: thick;
+    border-radius: 15px;
+    margin: 20px;
+}
+
